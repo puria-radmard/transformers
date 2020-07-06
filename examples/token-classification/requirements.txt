@@ -1,0 +1,4 @@
+numpy
+seqeval
+torch
+transformers
