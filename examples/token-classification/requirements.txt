@@ -1,4 +1,0 @@
-numpy
-seqeval
-torch
-transformers
